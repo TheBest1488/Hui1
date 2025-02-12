@@ -2,3 +2,17 @@ body {
   background-color: green;
   color: blue;
 }
+.my-button {
+    background-color: #4CAF50; /* Зеленый цвет */
+    color: white; /* Белый текст */
+    padding: 15px 32px; /* Отступы */
+    text-align: center; /* Центрирование текста */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор при наведении */
+    border: none; /* Убираем рамку */
+    border-radius: 5px; /* Скругленные углы */
+}
+
+.my-button:hover {
+    background-color: #45a049; /* Темный зеленый при наведении */
+}
