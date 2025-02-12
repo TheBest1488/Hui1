@@ -1,6 +1,7 @@
 body {
   background-color: green;
-  color: blue;
+  h1 color: blue;
+  h2 color: red;
 }
 .my-button {
     background-color: #4CAF50; /* Зеленый цвет */
