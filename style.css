@@ -1,6 +1,12 @@
 body {
-  background-color: green;
+  background-image: url('your-image.jpg'); /* Замените на путь к вашему изображению */
+  background-size: cover; /* Заполняет весь экран */
+  background-position: center; /* Центрирует изображение */
+  background-attachment: fixed; /* Фиксирует фон */
+  margin: 0;
+  height: 100vh;
 }
+
 h1 { color: blue;}
 h2 { color: red;}
 
